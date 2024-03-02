@@ -24,9 +24,9 @@ To get started with PandaPal, simply clone this repository to your local machine
 ```bash
 git clone https://github.com/dapandamonium/PandaPal.git
 cd PandaPal
+```
 
-
-"## Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
