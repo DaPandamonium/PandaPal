@@ -10,12 +10,6 @@ Check out the live demo of PandaPal [here](https://dapandamonium.github.io/Panda
 
 PandaPal is a project created for self-learning purposes, aiming to provide hands-on experience with Bootstrap while building a simple yet engaging dating app for pandas. Through this project, you'll have the opportunity to explore and practice Bootstrap's grid system, components, and utilities to create a responsive and visually appealing web application.
 
-## Features
-
-- User-friendly interface for browsing panda profiles.
-- Swipe functionality for liking or passing on panda profiles.
-- Easy-to-use navigation and interaction elements.
-- Responsive design for seamless use on various devices.
 
 ## Getting Started
 
@@ -31,10 +25,6 @@ cd PandaPal
 - HTML5
 - CSS3
 - Bootstrap
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to PandaPal, feel free to fork this repository, make your changes, and submit a pull request. Please ensure that your contributions align with the project's goals and follow the code of conduct.
 
 ## Support
 
